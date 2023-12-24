@@ -1,11 +1,9 @@
 # ANN_MNIST
-Este projeto consiste em um estudo de caso sobre uma Rede Neural Artificial (RNA) projetada para reconhecer dígitos em imagens 28x28. Cada imagem contém um algarismo associado a um rótulo previamente conhecido.
-
 ## Objetivo
 O objetivo principal deste projeto é proporcionar uma compreensão aprofundada do funcionamento de redes neurais artificiais, explorando especialmente a influência das taxas de aprendizado no desempenho do modelo. Além disso, o projeto visa fornecer insights sobre todo o ciclo de vida da rede neural, desde sua criação até o pós-processamento dos resultados.
 
 ## Visão Geral
-### Arquitetura da Rede Neural:
+### Arquitetura da Rede Neural
 
 A rede neural é composta por três camadas lineares.
 A primeira camada (linear1) tem entrada de tamanho 28x28 e 128 neurônios.
